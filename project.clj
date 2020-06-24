@@ -1,4 +1,4 @@
-(defproject clj-openssh-keygen "0.1.0"
+(defproject org.clojars.0xbase12/clj-openssh-keygen "0.2.0"
   :description "A clojure and java library to genereate OpenSSH compliant keypairs without executing ssh binaries"
   :url "https://dyne.org"
 
